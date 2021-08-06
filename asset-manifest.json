@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CatRoulette/static/css/main.7ab03d53.chunk.css",
+    "main.js": "/CatRoulette/static/js/main.10cb6c2e.chunk.js",
+    "main.js.map": "/CatRoulette/static/js/main.10cb6c2e.chunk.js.map",
+    "runtime-main.js": "/CatRoulette/static/js/runtime-main.64125a5e.js",
+    "runtime-main.js.map": "/CatRoulette/static/js/runtime-main.64125a5e.js.map",
+    "static/js/2.ac07be17.chunk.js": "/CatRoulette/static/js/2.ac07be17.chunk.js",
+    "static/js/2.ac07be17.chunk.js.map": "/CatRoulette/static/js/2.ac07be17.chunk.js.map",
+    "index.html": "/CatRoulette/index.html",
+    "static/css/main.7ab03d53.chunk.css.map": "/CatRoulette/static/css/main.7ab03d53.chunk.css.map",
+    "static/js/2.ac07be17.chunk.js.LICENSE.txt": "/CatRoulette/static/js/2.ac07be17.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/CatRoulette/static/media/cat.546d0496.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64125a5e.js",
+    "static/js/2.ac07be17.chunk.js",
+    "static/css/main.7ab03d53.chunk.css",
+    "static/js/main.10cb6c2e.chunk.js"
+  ]
+}
