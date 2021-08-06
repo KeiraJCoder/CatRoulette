@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&family=Style+Script&display=swap');
+
+
+body {
+  position:center;
+  background-image: url("../src/components/cat.jpeg");
+  background-size:cover;
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+}
+
+.app {
+  justify-content:center;
+  align-items:center;
+  padding: 10px;
+  padding-top: 5%;
+
+}
+
+h1 {
+
+  font-family: 'MonteCarlo', cursive;
+  text-align: center;
+  font-size: 50px;
+ 
+
+}
+
+img {
+  align-items: row;
+  justify-content: center;
+  max-width: 220px;
+  max-height: 220px;
+  background:black;
+  margin-left: 5%;
+  
+}
+
+p {
+  text-align: block;
+  justify-content: block;
+  font-family: 'MonteCarlo', cursive;
+  font-size: 30px;
+  margin-left:45%;
+
+}
+
+img {
+  
+  border-style: double;
+  justify-items: center;
+  margin-left: 44%;
+  margin-top: 50px;
+  position: flex;
+}
+
+h2 {
+  justify-content: center;
+  padding-left: 38%;
+}
